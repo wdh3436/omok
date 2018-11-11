@@ -1,0 +1,1 @@
+PlaySound(_T("BackGroundMusic1.wav"), NULL,SND_FILENAME | SND_ASYNC | SND_LOOP | SND_NODEFAULT);
